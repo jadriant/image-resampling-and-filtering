@@ -6,8 +6,9 @@ Run: `java ImageDisplay [FILE_PATH] [S] [A] [w]`
 ## Description
 Created an application that will help view the image in a resized format and optionally browse through all the details in `Java`
 
-![Description](.hiddenfolder/Screenshot%202023-09-20%20at%2010.44.24%20AM.png)
-![Description](.hiddenfolder/Screenshot%202023-09-20%20at%2010.44.24%42AM.png)
+![Description](.images-for-readme/Screenshot%202023-09-20%20at%2010.44.24%20AM.png)
+
+![Description](.images-for-readme/Screenshot%202023-09-20%20at%2010.44.24%42AM.png)
 
 ## Input to your program will take four parameters:
 - The first parameter is the name of the image, which will be provided in an 8 bit per channel RGB format (Total 24 bits per pixel). Assume all images in 16xHD format 7680x4320.
